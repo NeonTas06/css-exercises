@@ -1,0 +1,12 @@
+.click_button, 
+.click_button2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
+#click_me {
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+#no_click_me {
+    background-color: yellow;
+}
