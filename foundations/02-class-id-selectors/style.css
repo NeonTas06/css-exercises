@@ -1,0 +1,24 @@
+#number1 {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+#number3 {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+    font-size: 24px;
+
+}
+#number4 {
+    background-color: rgba(137, 241, 118, 0.991);
+    font-weight: bold;
+    font-size: 24px;
+
+}
+#number5 {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
